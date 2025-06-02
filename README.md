@@ -1,7 +1,7 @@
 <img align="left" height="150" src="https://i.pinimg.com/736x/7d/c7/4d/7dc74da7ccd30d80542206723b7b1254.jpg"  />
 
 <h5 align="left">
-👋 Hi there, I'm Tung<br><br>
+<h2 align="left">👋 Hi there, I'm Tung</h2><br>
 I'm a passionate **mobile developer** currently focusing on building robust and scalable apps with **Flutter**. Besides coding, I also enjoy working on **UI/UX design**, **marketing strategies**, and exploring new technologies to boost productivity and product value.<br><br>
 
 ### 🧠 Tech Stack & Skills:<br>
