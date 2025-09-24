@@ -2,7 +2,7 @@
 
 <h5 align="left">
 <h2 align="left">👋 Hi there, I'm Tung</h2><br>
-I'm a passionate **mobile developer** currently focusing on building robust and scalable apps with **Flutter**. Besides coding, I also enjoy working on **UI/UX design**, **marketing strategies**, and exploring new technologies to boost productivity and product value.<br><br>
+I'm a passionate **mobile developer** currently focusing on building robust and scalable apps with **Flutter**. Besides coding, I also enjoy working on **UI/UX design**, **marketing strategies**, and exploring new technologies to boost productivity and product value.
 
 ### 🧠 Tech Stack & Skills:<br>
 - 🔹 Languages: Dart, Kotlin, Java, JavaScript<br>
