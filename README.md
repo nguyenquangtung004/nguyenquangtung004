@@ -175,16 +175,7 @@ I'm a **Mobile Developer** currently focusing on building robust and scalable, o
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
-**⭐ From [Tung](https://github.com/nguyenquangtung004) with ❤️**
-
-*"Code is poetry written in logic"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nguyenquangtung004&color=ff6b6b&style=for-the-badge&label=Profile+Views)
 
 </div>
