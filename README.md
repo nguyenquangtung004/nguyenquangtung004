@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Tung!
-
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=60&lines=🚀+Mobile+Developer+%7C+Flutter+Expert;🎨+UI%2FUX+Designer+%7C+Tech+Enthusiast;📱+Building+Scalable+Mobile+Apps;⚡+Always+Learning+New+Technologies)
@@ -12,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Mobile Developer** currently focusing on building robust and scalable apps with **Flutter**. Besides coding, I also enjoy working on **UI/UX design**, **marketing strategies**, and exploring new technologies to boost productivity and product value.
+I'm a **Mobile Developer** currently focusing on building robust and scalable, optimation structure apps with **Flutter**. Besides coding, I also enjoy working on **UI/UX design**, **marketing strategies**, and exploring new technologies to boost productivity and product value.
 
 ---
 
@@ -21,7 +20,7 @@ I'm a passionate **Mobile Developer** currently focusing on building robust and 
 <div align="center">
 
 ### 🎯 Core Technologies
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0175C2?style=for-the-badge&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,12 +30,6 @@ I'm a passionate **Mobile Developer** currently focusing on building robust and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -61,20 +54,6 @@ I'm a passionate **Mobile Developer** currently focusing on building robust and 
 
 <br>
 
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenquangtung004&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
