@@ -65,7 +65,7 @@ I'm a **Mobile Developer** currently focusing on building robust and scalable, o
   
 | 🎯 **Goal** | 📈 **Progress** | 🎨 **Focus Area** |
 |-------------|-----------------|-------------------|
-| **Senior Flutter Developer** | 🟩🟩⬜⬜⬜ 35% | Advanced Architecture |
+| **Senior Android/IOS Developer** | 🟩🟩⬜⬜⬜ 55% | Advanced Architecture |
 | **UI/UX Mastery** | 🟩🟩🟩⬜⬜ 60% | Modern Design Systems |
 | **Product Thinking** | 🟩🟩🟩🟩⬜ 75% | End-to-End Development |
 
